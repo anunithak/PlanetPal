@@ -14,5 +14,15 @@ PlanetPal is a Flutter app that encourages sustainable habits and eco-friendly l
 3. Use an emulator or real device
 4. Run `flutter run`
 
+## 📁 lib/ Folder Structure
+
+lib/
+├── build/
+├── screens/
+│ └── profile.dart
+├── widgets/
+│ └── habit_tile.dart
+├── dashboard.dart
+└── main.dart
 ---
 
